@@ -1,0 +1,11 @@
+adafruit_simplemath>=2.0.2
+adafruit_htu21d>=0.11.1
+adafruit_requests>=1.10.2
+adafruit_rgbled>=1.1.8
+simpleio>=3.0.2
+adafruit_fakerequests>=1.0.5
+sparkfun_serlcd>=1.0.4
+adafruit_character_lcd>=3.3.11
+adafruit_ht16k33>=4.1.7
+adafruit_bus_device>=5.1.1
+adafruit_esp32spi>=3.5.12
